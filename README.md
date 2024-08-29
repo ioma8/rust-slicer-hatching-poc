@@ -1,4 +1,4 @@
-# Project Name
+# Rust hatching fill
 
 This is a basic README file for the project "Rust hatching fill".
 
